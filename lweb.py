@@ -13,5 +13,5 @@ if st.button("💌 Open My Heart"):
     st.success("I love you more than words can ever express. Thank you for being you. ❤️")
     
 
-st.image(r"C:\Users\C_World\Downloads\w.jpeg", width=500)
+st.image("w.jpeg", width=500)
 
